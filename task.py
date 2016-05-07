@@ -52,7 +52,7 @@ def draw():
     if bx<=rx+70 and by<=ry+10 and bx>=rx and by>=ry:
         bys=-bys
         bxs=-bxs
-    if bx<=ry2+30 and by<=rx2+30 and bx>=rx2 and by>=ry2:
+    if bx<=rx2+30 and by<=ry2+30 and bx>=rx2 and by>=ry2:
         bxs=-bxs
         bys=-bys
         rx2=999
