@@ -51,7 +51,6 @@ def draw():
             rx=rx-2
     if bx<=rx+70 and by<=ry+10 and bx>=rx and by>=ry:
         bys=-bys
-        bxs=-bxs
     if bx<=rx2+30 and by<=ry2+30 and bx>=rx2 and by>=ry2:
         bys=-bys
         rx2=999
@@ -99,5 +98,3 @@ def draw():
         bxs=0
         bx=250
         by=500    
-        
-               
