@@ -67,7 +67,7 @@ def draw():
         bys=-bys
         rx5=999
         ry5=999 
-    if bx<=rx6+30 and by<=ry6+30 and bx>=rx6 and by>=ry6:
+    if bx>=rx6+30 and by>=ry6+30 and bx<=rx6 and by<=ry6:
         bys=-bys
         rx6=999
         ry6=999      
