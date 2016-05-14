@@ -53,47 +53,38 @@ def draw():
         bys=-bys
         bxs=-bxs
     if bx<=rx2+30 and by<=ry2+30 and bx>=rx2 and by>=ry2:
-        bxs=-bxs
         bys=-bys
         rx2=999
         ry2=999
     if bx<=rx3+30 and by<=ry3+30 and bx>=rx3 and by>=ry3:
-        bxs=-bxs
         bys=-bys
         rx3=999
         ry3=999
     if bx<=rx4+30 and by<=ry4+30 and bx>=rx4 and by>=ry4:
-        bxs=-bxs
         bys=-bys
         rx4=999
         ry4=999  
     if bx>=rx5+30 and by>=ry5+30 and bx<=rx5 and by<=ry5:
-        bxs=-bxs
         bys=-bys
         rx5=999
         ry5=999 
     if bx<=rx6+30 and by<=ry6+30 and bx>=rx6 and by>=ry6:
-        bxs=-bxs
         bys=-bys
         rx6=999
         ry6=999      
     if bx<=rx7+30 and by<=ry7+30 and bx>=rx7 and by>=ry7:
-        bxs=-bxs
         bys=-bys
         rx7=999
         ry7=999      
     if bx<=rx8+30 and by<=ry8+30 and bx>=rx8 and by>=ry8:
-        bxs=-bxs
         bys=-bys
         rx8=999
         ry8=999      
     if bx<=rx9+30 and by<=ry9+30 and bx>=rx9 and by>=ry9:
-        bxs=-bxs
         bys=-bys
         rx9=999
         ry9=999      
     if bx<=rx0+30 and by<=ry0+30 and bx>=rx0 and by>=ry0:
-        bxs=-bxs
         bys=-bys
         rx0=999
         ry0=999                                          
